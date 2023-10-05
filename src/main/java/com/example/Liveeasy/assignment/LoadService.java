@@ -1,4 +1,4 @@
-package com.example.Liveasy.assignment;
+package com.example.Liveeasy.assignment;
 
 import java.util.List;
 import org.springframework.stereotype.Service;
