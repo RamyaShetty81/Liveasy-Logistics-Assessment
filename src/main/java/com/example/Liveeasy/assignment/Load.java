@@ -1,6 +1,6 @@
 
 
-package com.example.loads.Liveasy.assignment;
+package com.example.loads.Liveeasy.assignment;
 import java.util.Date;
 
 import com.example.loads.Apis.Load.Enums.LoadingPoint;
