@@ -1,4 +1,4 @@
-package com.example.loads.Apis.Load.DTOs;
+package com.example.Liveeasy.assignment;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
