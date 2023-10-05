@@ -1,4 +1,4 @@
-package com.example.Liveasy.assigment;
+package com.example.Liveeasy.assigment;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
