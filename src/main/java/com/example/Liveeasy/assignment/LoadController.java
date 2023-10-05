@@ -1,4 +1,4 @@
-package com.example.Liveasy.assignment;
+package com.example.Liveesy.assignment;
 
 import java.util.ArrayList;
 import java.util.List;
